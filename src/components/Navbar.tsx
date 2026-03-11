@@ -131,6 +131,17 @@ isActive(l.to) ? 'text-primary' : 'text-muted-foreground'
 
 ))}
 
+<a
+href="https://instagram.com/md_.sumair_pvt"
+target="_blank"
+rel="noopener noreferrer"
+onClick={() => setOpen(false)}
+className="flex items-center gap-1.5 text-sm font-medium text-muted-foreground"
+>
+<Instagram className="w-4 h-4" />
+Instagram
+</a>
+
 <Link
 
 to="/admin"
