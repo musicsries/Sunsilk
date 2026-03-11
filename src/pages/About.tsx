@@ -18,21 +18,13 @@ const About = () => (
 
 <p>
 
-Balaji Collections is your one-stop destination for the finest ethnic and modern fashion. 
-
-With years of experience in the textile industry, we bring you hand-picked collections that 
-
-combine traditional craftsmanship with contemporary style.
+ABOUT ELEGANCE OF STORE
 
 </p>
 
 <p>
 
-Our curated range includes sarees, salwar suits, lehengas, kurtis, and western wear — 
-
-all sourced from trusted manufacturers across India. We believe everyone deserves to look 
-
-their best without breaking the bank.
+DESCRIBE ELEGANCE OF STORE
 
 </p>
 
@@ -59,7 +51,7 @@ their best without breaking the bank.
 
 <h3 className="font-heading font-semibold mb-1">Phone</h3>
 
-<p className="text-sm text-muted-foreground">+91 9380738510</p>
+<p className="text-sm text-muted-foreground">+91 9342825453</p>
 
 </div>
 </div>
@@ -69,7 +61,10 @@ their best without breaking the bank.
 
 <h3 className="font-heading font-semibold mb-1">Hours</h3>
 
-<p className="text-sm text-muted-foreground">Mon–Sat: 10 AM – 9 PM</p>
+<p className="text-sm text-muted-foreground">Mon–Sat: 10 AM – 9 PM
+
+Sun: 10AM -2 PM
+</p>
 
 </div>
 
