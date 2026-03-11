@@ -1,3 +1,4 @@
+import { Instagram } from "lucide-react";
 import { Link } from 'react-router-dom';
 import { MapPin, Phone } from 'lucide-react';
 
@@ -54,6 +55,16 @@ target="_blank"
 <Phone className="w-4 h-4" />
           +91 9342825453
         </a>
+
+<a
+  href="https://instagram.com/Ylmd_.sumair_pvt"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="flex items-center gap-2 hover:opacity-100"
+>
+  <Instagram className="w-4 h-4" />
+  Instagram
+</a>
 
       </div>
     </div>
