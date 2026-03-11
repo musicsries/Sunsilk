@@ -34,7 +34,7 @@ return (
 
 <Link to="/" className="font-heading text-2xl font-bold text-primary">
 
-Balaji Collections
+STORE NAME
 
 </Link>
 
