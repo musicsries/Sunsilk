@@ -10,8 +10,7 @@ const Footer = () => (
       <h3 className="font-heading text-xl font-bold mb-3">Balaji Saree</h3>
 
 <p className="text-sm opacity-80 leading-relaxed">
-        Your trusted destination for premium ethnic & modern fashion. 
-        Quality fabrics, timeless designs, and unbeatable prices.
+        TELL ABOUT YOUR STORY
       </p>
     </div>
 
@@ -48,12 +47,12 @@ target="_blank"
         </a>
 
         <a
-          href="tel:+919380738510"
+          href="tel:+919342825453"
           className="flex items-center gap-2 hover:opacity-100"
         >
 
 <Phone className="w-4 h-4" />
-          +91 9380738510
+          +91 9342825453
         </a>
 
       </div>
@@ -62,7 +61,7 @@ target="_blank"
   </div>
 
 <div className="container mx-auto px-4 mt-8 pt-6 border-t border-background/20 text-center text-xs opacity-60">
-    © {new Date().getFullYear()} Balaji Collections. All rights reserved.
+    © {new Date().getFullYear()} STORE NAME. All rights reserved.
   </div>
 
 </footer>
