@@ -8,7 +8,6 @@ import Footer from "../components/Footer";
 
 import ProductCard from "../components/ProductCard";
 
-import WhatsAppButton from "../components/WhatsAppButton";
 
 const Collections = () => {
 
@@ -142,7 +141,6 @@ category === c
 
 <Footer />
 
-<WhatsAppButton />
 
 </>
 
