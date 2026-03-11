@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'react-router-dom';
 
-import { Menu, X, ShieldCheck } from 'lucide-react';
+import { Menu, X, ShieldCheck, Instagram } from 'lucide-react';
 
 import { useState } from 'react';
 
@@ -63,6 +63,16 @@ isActive(l.to) ? 'text-primary' : 'text-muted-foreground'
 </Link>
 
 ))}
+
+<a
+  href="https://instagram.com/md_.sumair_pvt"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="flex items-center gap-1.5 text-sm font-medium text-muted-foreground hover:text-primary transition-colors"
+>
+  <Instagram className="w-4 h-4" />
+  Instagram
+</a>
 
 <Link
 
