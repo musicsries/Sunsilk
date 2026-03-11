@@ -1,3 +1,5 @@
+import WhatsAppButton from "../components/WhatsAppButton";
+import InstagramButton from "../components/InstagramButton";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Index from "./pages/Index";
@@ -16,6 +18,9 @@ function App() {
         <Route path="/admin" element={<Admin />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
+<WhatsAppButton />
+      <InstagramButton />
+
     </BrowserRouter>
   );
 }
