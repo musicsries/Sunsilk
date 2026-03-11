@@ -1,6 +1,5 @@
 import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
-import WhatsAppButton from "../components/WhatsAppButton"
 import { MapPin, Phone, Clock } from 'lucide-react';
 
 const About = () => (
@@ -94,7 +93,6 @@ referrerPolicy="no-referrer-when-downgrade"
 
 <Footer />
 
-<WhatsAppButton />
 
 </>
 
