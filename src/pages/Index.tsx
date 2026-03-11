@@ -22,11 +22,11 @@ const Index = () => {
       {/* Store name + Tagline + CTA */}
       <section className="bg-card border-b py-10 text-center px-4">
         <h1 className="font-heading text-3xl md:text-5xl font-bold text-gold mb-3">
-          Balaji Collections
+          STORE NAME
         </h1>
 
         <p className="text-lg md:text-xl text-muted-foreground max-w-lg mx-auto">
-          Premium ethnic & modern fashion — quality fabrics, timeless designs, unbeatable prices.
+         SAY ABOUT STORE
         </p>
 
         <Link
@@ -44,8 +44,7 @@ const Index = () => {
         </h2>
 
         <p className="text-muted-foreground leading-relaxed">
-          At Balaji Collections, we handpick the finest fabrics and latest designs to bring you fashion that speaks elegance.
-          From traditional sarees to contemporary western wear, every piece is curated with love and care.
+          DESCRIBE IT 
         </p>
 
         <Link
